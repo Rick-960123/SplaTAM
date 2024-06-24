@@ -192,6 +192,7 @@ def initialize_first_timestep(dataset, num_frames, scene_radius_depth_ratio,
     else:
         densify_intrinsics = intrinsics
 
+
     # Get Initial Point Cloud (PyTorch CUDA Tensor)
     mask = (depth > 0) # Mask out invalid depth values
     mask = mask.reshape(-1)

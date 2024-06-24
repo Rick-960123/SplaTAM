@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/rick/robotCS/devel/lib/python2.7/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/rick/robotCS/src/mapping/packages/gaussian-splatting/submodules/simple-knn",
+        "/home/rick/robotCS/src/mapping/packages/gaussian-splatting/submodules/diff-gaussian-rasterization",
+        ""
+    ],
+    "python.analysis.extraPaths": [
+        "/home/rick/robotCS/devel/lib/python2.7/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/rick/robotCS/src/mapping/packages/gaussian-splatting/submodules/simple-knn",
+        "/home/rick/robotCS/src/mapping/packages/gaussian-splatting/submodules/diff-gaussian-rasterization",
+        ""
+    ]
+}
